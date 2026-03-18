@@ -1,4 +1,5 @@
 {
     "project_name": "Cookiecutter Project",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_description": "A cookiecutter directory structure for a new research project"
 }
